@@ -1,0 +1,13 @@
+{
+  "name": "DevWorld-First-system",
+  "version": "1.0.0",
+  "description": "Mein Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.4.2"
+  }
+}
